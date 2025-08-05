@@ -1,1 +1,1 @@
-# AGno_project
+# Agentic-AI-Application
